@@ -110,6 +110,7 @@
 // @match        https://*.programqa.com/question/*
 // @match        https://husl.ru/questions/*
 // @match        https://www.husl.ru/questions/*
+// @match        http://fliplinux.com/*
 // ==/UserScript==
 
 (async () => {
